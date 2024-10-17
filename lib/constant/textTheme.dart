@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:lend_me/globalTheme/colorTheme.dart';
+import 'package:lend_me/constant/colorTheme.dart';
 
 class TextThemeStyle {
   static TextStyle headerLarge = TextStyle(
